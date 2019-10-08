@@ -1,0 +1,1 @@
+SELECT transaction_id, date_of_payment, Accident.customer_id  FROM Accident, Payment WHERE Accident.report_id = Payment.report_id

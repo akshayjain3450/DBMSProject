@@ -1,0 +1,1 @@
+SELECT first_name || "(" || "testing" || ")" AS newcolumn FROM Customer
