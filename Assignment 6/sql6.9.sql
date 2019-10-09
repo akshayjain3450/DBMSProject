@@ -1,0 +1,1 @@
+SELECT * FROM Customer WHERE driving_license_number REGEXP "[0-9]"

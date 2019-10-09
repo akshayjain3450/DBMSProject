@@ -1,0 +1,1 @@
+SELECT * FROM Customer, Policy WHERE last_name REGEXP "C" 

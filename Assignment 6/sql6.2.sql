@@ -1,0 +1,1 @@
+SELECT * FROM Insurance WHERE insurance_type REGEXP "^[ABCD]"

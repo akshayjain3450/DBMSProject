@@ -1,0 +1,1 @@
+SELECT * FROM Agent WHERE pincode REGEXP "4+"

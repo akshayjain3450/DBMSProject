@@ -1,0 +1,1 @@
+SELECT * FROM Address WHERE city REGEXP "^[AB]|^[IJ]"

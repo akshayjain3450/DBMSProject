@@ -1,0 +1,1 @@
+SELECT * FROM Customer WHERE last_name REGEXP "Ch*"
