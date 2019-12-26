@@ -1,0 +1,1 @@
+SELECT * FROM ascent WHERE user_id = '14' OR user_id = '17'
