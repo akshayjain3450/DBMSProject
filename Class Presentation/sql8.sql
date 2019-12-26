@@ -1,0 +1,1 @@
+SELECT * FROM ascent WHERE user_id IN (14,17)
